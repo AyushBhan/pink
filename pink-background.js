@@ -1,1 +1,2 @@
-document.body.style.backgroundColor = "#FFC0CB";
+document.querySelector("body").style.backgroundColor = "#FFC0CB !important";
+
